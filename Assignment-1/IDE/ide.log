@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.9.8)  8 SEP 2022 15:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.9.8)  8 SEP 2022 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -979,7 +979,7 @@ Package rerunfilecheck Info: File `ide.out' has not changed.
 Here is how much of TeX's memory you used:
  24747 strings out of 478287
  455506 string characters out of 5849290
- 906795 words of memory out of 5000000
+ 904795 words of memory out of 5000000
  42493 multiletter control sequences out of 15000+600000
  514123 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -990,7 +990,7 @@ e/texmf/fonts/type1/public/lm/lmmi9.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on ide.pdf (2 pages, 1264104 bytes).
+Output written on ide.pdf (2 pages, 1264101 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
