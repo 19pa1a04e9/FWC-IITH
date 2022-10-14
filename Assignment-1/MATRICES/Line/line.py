@@ -1,8 +1,4 @@
-#Code by GVV Sharma (works on termux)
-#March 1, 2022
-#License
-#https://www.gnu.org/licenses/gpl-3.0.en.html
-#To draw a quadrilateral circumscribing a circle
+
 
 
 #Python libraries for math and graphics
